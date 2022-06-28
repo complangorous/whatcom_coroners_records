@@ -1,0 +1,13 @@
+os,browser,user_agent
+win10,edge,Edge/12.246
+win10,chrome,Chrome/42.0.2311.135
+win10,mozilla,Mozilla/5.0
+win10,safari,Safari/537.36
+win7,chrome,Chrome/47.0.2526.111
+win7,mozilla,Mozilla/5.0
+win7,safari,Safari/537.36
+osx,safari,Safari/601.3.9
+chromeos,chrome,Chrome/51.0.2704.64
+linux,chrome,Chrome/47.0.2526.111
+linux,mozilla,Mozilla/5.0
+linux,firefox,Firefox/15.0.1
